@@ -39,7 +39,14 @@
 &lt;script&gt;
     GitHubCalendar(".calendar", "JeetMehta99");
     // or enable responsive functionality
-    GitHubCalendar(".calendar", "your-JeetMehta99", { responsive: true });
+    GitHubCalendar(".calendar", "JeetMehta99", { responsive: true });
+
+    // Use a proxy
+    GitHubCalendar(".calendar", "JeetMehta99", {
+       proxy (JeetMehta99) {
+         return fetch(`https://your-proxy.com/github?user=${JeetMehta99}`)
+       }
+    }).then(r => r.text())
 &lt;/script&gt;
             </pre>
             <div class="monospace with-heart">
