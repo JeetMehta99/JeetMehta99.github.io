@@ -147,7 +147,7 @@ export const portfolio = {
       year: "2022",
       href: "https://cool-conkies-80a0da.netlify.app/#/",
       repo: "https://github.com/uic-hall-of-fame/cs484-f22-BikeSpy",
-      image: "/assets/images/projects/project-1.png",
+      image: "/assets/images/projects/bike-lane.svg",
       tags: ["React", "Supabase", "Mapbox", "PostGIS", "TypeScript"],
       oneLiner: "Report obstructions in bike lanes with spatial search and map tools.",
       details:
@@ -159,7 +159,7 @@ export const portfolio = {
       year: "2022",
       href: "https://github.com/JeetMehta99/CS441-Project",
       repo: "https://github.com/JeetMehta99/CS441-Project",
-      image: "/assets/images/projects/project-2.png",
+      image: "/assets/images/projects/streaming-pipeline.svg",
       tags: ["Scala", "Akka", "Kafka", "Spark", "AWS"],
       oneLiner: "Real-time ETL over 10GB+ logs with streaming visualization.",
       details:
@@ -171,7 +171,7 @@ export const portfolio = {
       year: "2022",
       href: "https://github.com/JeetMehta99/CS441--Cloud-Computing-Proj3",
       repo: "https://github.com/JeetMehta99/CS441--Cloud-Computing-Proj3",
-      image: "/assets/images/projects/project-3.png",
+      image: "/assets/images/projects/grpc-cloud.svg",
       tags: ["gRPC", "Lambda", "API Gateway", "Scala", "Python"],
       oneLiner: "gRPC client invoking Lambda workloads on large datasets.",
       details:
