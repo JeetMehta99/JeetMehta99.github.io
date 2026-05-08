@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" rx="28" fill="#0A0F1D"/>
+  <rect x="48" y="48" width="1104" height="664" rx="26" fill="#0E1627" stroke="#24324A"/>
+  <rect x="86" y="112" width="224" height="112" rx="18" fill="#17233A"/>
+  <rect x="488" y="112" width="224" height="112" rx="18" fill="#17233A"/>
+  <rect x="890" y="112" width="224" height="112" rx="18" fill="#17233A"/>
+  <text x="132" y="178" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Akka</text>
+  <text x="532" y="178" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Kafka</text>
+  <text x="932" y="178" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Spark</text>
+  <path d="M310 168H488" stroke="#38BDF8" stroke-width="12" stroke-linecap="round"/>
+  <path d="M712 168H890" stroke="#22C55E" stroke-width="12" stroke-linecap="round"/>
+  <path d="M470 168L442 148V188L470 168Z" fill="#38BDF8"/>
+  <path d="M872 168L844 148V188L872 168Z" fill="#22C55E"/>
+  <rect x="112" y="316" width="976" height="280" rx="22" fill="#0A1221" stroke="#1E2C44"/>
+  <path d="M162 558C240 516 275 424 344 390C429 347 484 468 574 444C655 422 690 320 772 286C849 254 916 298 1038 226" stroke="#60A5FA" stroke-width="10" stroke-linecap="round"/>
+  <path d="M162 536C227 524 274 492 344 470C430 443 487 496 570 516C653 537 715 526 789 486C864 446 927 386 1038 376" stroke="#34D399" stroke-width="10" stroke-linecap="round" opacity=".95"/>
+  <text x="142" y="382" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Streaming Data Pipeline</text>
+  <text x="142" y="420" fill="#93C5FD" font-family="Arial, Helvetica, sans-serif" font-size="20">Real-time ETL • Event flow • Visualization</text>
+</svg>

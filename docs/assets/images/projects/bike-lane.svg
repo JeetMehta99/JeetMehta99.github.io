@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" rx="28" fill="#09111F"/>
+  <rect x="40" y="40" width="1120" height="680" rx="24" fill="#0E172A" stroke="#20304A"/>
+  <rect x="86" y="96" width="1028" height="568" rx="20" fill="#0B1322"/>
+  <path d="M190 620C278 525 350 487 442 428C522 377 578 336 642 268C724 180 789 146 934 122" stroke="#22C55E" stroke-width="18" stroke-linecap="round"/>
+  <path d="M220 620C304 546 379 508 466 454C545 406 606 369 670 306C741 236 813 198 945 182" stroke="#7CFC8F" stroke-opacity=".22" stroke-width="42" stroke-linecap="round"/>
+  <circle cx="444" cy="426" r="24" fill="#F59E0B"/>
+  <circle cx="642" cy="268" r="24" fill="#EF4444"/>
+  <circle cx="811" cy="175" r="24" fill="#38BDF8"/>
+  <rect x="130" y="136" width="246" height="122" rx="18" fill="#111C31" stroke="#223252"/>
+  <text x="162" y="188" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700">Bike Lane</text>
+  <text x="162" y="224" fill="#7DD3FC" font-family="Arial, Helvetica, sans-serif" font-size="20">Spatial reporting • Mapbox • PostGIS</text>
+  <rect x="792" y="508" width="260" height="108" rx="18" fill="#0F1B30" stroke="#243758"/>
+  <text x="824" y="552" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Live map events</text>
+  <text x="824" y="590" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="18">Polygon search + issue markers</text>
+</svg>
