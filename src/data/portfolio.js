@@ -61,7 +61,7 @@ export const portfolio = {
       title: "Software Engineer III - Full Stack",
       start: "2025-04",
       end: "Present",
-      logo: "/assets/logos/wells-fargo.svg",
+      logo: "./assets/logos/wells-fargo.svg",
       stack: ["JavaScript", "Python", "React", "Next.js", "FastAPI", "PyTest", "Jest"],
       highlights: [
         "Designed and deployed a full-stack agentic AI chatbot using Google GenAI SDK and custom hooks to enable natural-language querying of validation workflows, model metrics, and operational insights for 30+ internal users across 3+ business units.",
@@ -79,7 +79,7 @@ export const portfolio = {
       title: "Software Engineer - Backend",
       start: "2023-07",
       end: "2025-04",
-      logo: "/assets/logos/atd.png",
+      logo: "./assets/logos/atd.png",
       stack: [
         "Java",
         "Python",
@@ -104,7 +104,7 @@ export const portfolio = {
       title: "Data Engineer - Intern",
       start: "2022-06",
       end: "2022-08",
-      logo: "/assets/logos/chs.svg",
+      logo: "./assets/logos/chs.svg",
       stack: ["SQL", "Snowflake", "AWS", "Azure DevOps", "dbt", "Power BI"],
       highlights: [
         "Gathered unstructured data from multiple sources and automated ELT in Snowflake with dbt and wrote macros for high reusability, saving 20+ hours/month on manual processes.",
@@ -147,7 +147,7 @@ export const portfolio = {
       year: "2022",
       href: "https://cool-conkies-80a0da.netlify.app/#/",
       repo: "https://github.com/uic-hall-of-fame/cs484-f22-BikeSpy",
-      image: "/assets/images/projects/bike-lane.svg",
+      image: "./assets/images/projects/bike-lane.svg",
       tags: ["React", "Supabase", "Mapbox", "PostGIS", "TypeScript"],
       oneLiner: "Report obstructions in bike lanes with spatial search and map tools.",
       details:
@@ -159,7 +159,7 @@ export const portfolio = {
       year: "2022",
       href: "https://github.com/JeetMehta99/CS441-Project",
       repo: "https://github.com/JeetMehta99/CS441-Project",
-      image: "/assets/images/projects/streaming-pipeline.svg",
+      image: "./assets/images/projects/streaming-pipeline.svg",
       tags: ["Scala", "Akka", "Kafka", "Spark", "AWS"],
       oneLiner: "Real-time ETL over 10GB+ logs with streaming visualization.",
       details:
@@ -171,7 +171,7 @@ export const portfolio = {
       year: "2022",
       href: "https://github.com/JeetMehta99/CS441--Cloud-Computing-Proj3",
       repo: "https://github.com/JeetMehta99/CS441--Cloud-Computing-Proj3",
-      image: "/assets/images/projects/grpc-cloud.svg",
+      image: "./assets/images/projects/grpc-cloud.svg",
       tags: ["gRPC", "Lambda", "API Gateway", "Scala", "Python"],
       oneLiner: "gRPC client invoking Lambda workloads on large datasets.",
       details:
