@@ -6,7 +6,7 @@ export const portfolio = {
     email: "mehta.jp99@gmail.com",
     linkedin: "https://www.linkedin.com/in/jeet-mehta99",
     github: "https://github.com/JeetMehta99",
-    resume: "https://drive.google.com/file/d/1Z9QjWij9xWVamTaPXX99Apz1OLvde2uc/view?usp=sharing",
+    resume: "https://drive.google.com/file/d/1ol4-MYkxwcReWxCDto80fYry-VKNnBrj/view?usp=sharing",
     headline:
       "Full-stack Software Engineer with 3+ years of experience building high-performance backend systems and intuitive front-end apps across large-scale platforms.",
     summary:
